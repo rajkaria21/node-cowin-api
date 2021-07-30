@@ -1,0 +1,29 @@
+{
+  "name": "node-cowin-api",
+  "version": "1.0.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raj Karia <rajkaria72@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajkaria21/node-cowin-api.git"
+  },
+  "keywords": [
+    "cowin",
+    "cowin-wrapper",
+    "nodejs",
+    "cowin-nodejs",
+    "india-covid",
+    "covid19-india",
+    "covaccine",
+    "covishield"
+  ],
+  "homepage": "https://github.com/rajkaria21/node-cowin-api.git",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
